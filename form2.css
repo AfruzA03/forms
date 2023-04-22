@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+form{
+    border: 1px solid black;
+    margin-left: 20px;
+    width: 300px;
+        background-color: beige;
+}
+
+.form-input-list{
+    padding-top: 17px;
+    margin-bottom: 20px;
+}
+
+.form-input-list input{
+    width: 260px;
+    height: 30px;
+    border-radius: 5px;
+    border-style: none;
+}
+li{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    
+}
+li{
+    list-style: none;
+}
+
+.checkbox input{
+position: absolute;
+margin-left: 20px;
+}
+
+.checkbox p{
+    position: relative;
+    margin-left: 35px;
+    margin-bottom: 20px;
+}
