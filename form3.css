@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 20px;
+    padding-left: 20px;
+    /* padding-top: 25px; */
+    padding-bottom: 25px;
+    background-color: bisque;
+}
+
+label{
+    display: block;
+    padding-bottom: 8px;
+    padding-top: 15px;
+}
+
+span{
+    color: red;
+}
+
+input{
+    width: 260px;
+    height: 30px;
+    border-style: none;
+    border-radius: 5px;
+    padding-left: 10px;
+}
